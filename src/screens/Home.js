@@ -1,8 +1,6 @@
 import { View, Text, FlatList, StyleSheet } from 'react-native';
 import React, { useState } from 'react';
-
 import { COLORS, NFTData } from '../assets/constants';
-
 import FocusedStatusBar from '../components/FocusedStatusBar'; 
 import HomeHeader from '../components/HomeHeader'; 
 import NFTCard from '../components/NFTCard'; 
